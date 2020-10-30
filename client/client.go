@@ -32,7 +32,7 @@ func Start() {
 
 	err = goBot.Open()
 
-	if err != nil {
+	if err != nil 
 		fmt.Println(err.Error())
 		return
 	}
