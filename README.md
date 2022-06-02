@@ -1,2 +1,2 @@
 # GoBot
-A simple bot to eval with made in Go using the discordgo library. 
+Evaluate code in Discord using the discordgo library. 
